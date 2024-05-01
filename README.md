@@ -13,7 +13,7 @@
   - Programming I &  II
 - Member of the ITK Club
 
-### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme(AUGUST 2019 - JUNE 2022)
+### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme (AUGUST 2019 - JUNE 2022)
 
 - Higher level in  Mathematics:  Analysis and Approaches, Physics, Philosophy
 - President of Model United Nations Club
@@ -30,7 +30,7 @@ I am currently working in a team using Scrum to design a mobile VR horror game i
 
 I created a concurrent HTTP server using socket programming in Java.
 
-### ChikKit Game
+### ChipKit Game
 
 I worked with a partner to program a game into a ChipKit using C programming language. The game was presented at an exhibition along with other ChipKit projects.
 
