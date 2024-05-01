@@ -7,10 +7,11 @@
 
 - Notable Courses:
   - Algorithms and Data Structures
-  - Digital Design
+  - Computer Hardware Engineering
   - Embedded Electronics
-  - Discrete Mathematics
-  - Programming I &  II
+  - Network and Communication
+  - Programming I & II
+
 - Member of the ITK Club
 
 ### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme (AUGUST 2019 - JUNE 2022)
