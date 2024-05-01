@@ -1,4 +1,4 @@
-# Sai Tejas Chintapalli
+# E-Portfolio
 
 #### Technical Skills: Java, C, C#, Python, Elixir, Assembly, Unity Engine, Git
 
