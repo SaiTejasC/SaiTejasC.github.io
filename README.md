@@ -21,7 +21,7 @@
 - Member of the house leadership team
 
 ## Projects
-### Mobile VR Horror Game*
+### Mobile VR Horror Game
 
 [Project Website](https://saitejaschintapall.wixsite.com/ghostleaks)
 
@@ -31,11 +31,11 @@ I am currently working in a team using Scrum to design a mobile VR horror game i
 
 I created a concurrent HTTP server using socket programming in Java.
 
-### ChikKit Game** 
+### ChikKit Game
 
 I worked with a partner to program a game into a ChipKit using C programming language. The game was presented at an exhibition along with other ChipKit projects.
 
-### Robot Sumo Tournament** 
+### Robot Sumo Tournament
 
 In a group, we designed and programmed a robot to participate in a sumo tournament with students from several programmes at KTH.
 
