@@ -24,6 +24,7 @@
 ### Mobile VR Horror Game
 
 [Project Website](https://saitejaschintapall.wixsite.com/ghostleaks)
+
 [GitHub Repository](https://github.com/PontusAhlin/HorrorGame)
 
 I am currently working in a team using Scrum to design a mobile VR horror game in Unity. This project involves creating models in Unity, using the C# programming language, and using Git for version control.
