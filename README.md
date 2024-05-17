@@ -27,7 +27,7 @@
 
 [GitHub Repository](https://github.com/PontusAhlin/HorrorGame)
 
-I am currently working in a team using Scrum to design a mobile VR horror game in Unity. This project involves creating models in Unity, using the C# programming language, and using Git for version control. In the game, you are a streamer going into an abandoned mental asylum aiming to gain likes by streaming monsters and escaping with your life. You can build the game onto your phone using the Unity game engine for both Android and IOS.
+I am currently working in a team using Scrum to design a mobile VR horror game in Unity. This project involves creating models in Unity, using the C# programming language, and using Git for version control. In the game, you are a streamer going into an abandoned mental asylum aiming to gain likes by streaming monsters and escaping with your life. You can build the game onto your phone using the Unity game engine for both Android and IOS, or you can scan the QR code on the website to get the download link for Android.
 
 ### Socket Programming
 
