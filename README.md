@@ -18,13 +18,13 @@
 ### EPFL Swiss Federal Institute of Technology Lausanne,  Switzerland — Bachelor Degree Exchange Studies
 #### (AUGUST 2024 - FEBRUARY 2025)
 
-- Registered in the Computer Science section
-
 - Notable Courses:
   - Software construction
   - Computer Architecture
   - Responsible Software
   - Probability and Statistics
+
+- Registered in the Computer Science section
 
 ### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme
 #### (AUGUST 2019 - JUNE 2022)
