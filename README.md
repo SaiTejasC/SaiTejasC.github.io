@@ -1,10 +1,7 @@
-# E-Portfolio
-
 #### Technical Skills: Java, C, C#, Python, Elixir, Assembly, Unity Engine, Git
 
 ## Education
-### KTH Royal Institute of Technology,  Sweden — Bachelor in Information and Communication Technology
-#### (AUGUST 2022 - MAY 2025)
+### KTH Royal Institute of Technology,  Sweden — Bachelor in Information and Communication Technology (AUGUST 2022 - MAY 2025)
 
 - Notable Courses:
   - Algorithms and Data Structures
@@ -15,8 +12,7 @@
 
 - Member of the ITK Club
 
-### EPFL Swiss Federal Institute of Technology Lausanne,  Switzerland — Bachelor Degree Exchange Studies
-#### (AUGUST 2024 - FEBRUARY 2025)
+### EPFL Swiss Federal Institute of Technology Lausanne,  Switzerland — Bachelor Degree Exchange Studies (AUGUST 2024 - FEBRUARY 2025)
 
 - Notable Courses:
   - Software construction
@@ -26,16 +22,14 @@
 
 - Registered in the Computer Science section
 
-### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme
-#### (AUGUST 2019 - JUNE 2022)
+### International English Gymnasium Södermalm,  Sweden — International Baccalaureate High School Programme (AUGUST 2019 - JUNE 2022)
 
 - Higher level in  Mathematics:  Analysis and Approaches, Physics, Philosophy
 - President of Model United Nations Club
 - Member of the house leadership team
 
 ## Work Experience
-### Vattenfall
-#### (JULY 2024 - AUGUST 2024)
+### Vattenfall (JULY 2024 - AUGUST 2024)
 I interned as a part of the Asset Analytics - Distribution team. Key tasks I handled included transferring historical data, combining Git repositories and creating dataframes used for analysis. During this experience, I developed my skills in using Azure datbricks, PowerBI, PySpark, Git, and Agile collaboration frameworks.
 
 ## Projects
