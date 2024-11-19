@@ -1,4 +1,4 @@
-#### Technical Skills: Java, C, C#, Python, Elixir, Assembly, Unity Engine, Git
+#### Technical Skills: Java, C, C#, Python, Elixir, PySpark, Scala, Assembly, Unity Engine, Git
 
 ## Education
 ### KTH Royal Institute of Technology,  Sweden — Bachelor in Information and Communication Technology (AUGUST 2022 - MAY 2025)
