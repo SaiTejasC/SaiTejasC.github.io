@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Sai Tejas Chintapalli
 description: A third-year student at KTH pursuing a Bachelor's of Science in Information and Communication Technology
